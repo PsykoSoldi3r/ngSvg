@@ -1,0 +1,23 @@
+{
+  "name": "ng-svg",
+  "version": "1.0.0",
+  "description": "Easily use svg inside your angular projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsykoSoldi3r/ngSvg.git"
+  },
+  "keywords": [
+    "svg",
+    "angularjs"
+  ],
+  "author": "Joey Kamsteeg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PsykoSoldi3r/ngSvg/issues"
+  },
+  "homepage": "https://github.com/PsykoSoldi3r/ngSvg#readme"
+}
